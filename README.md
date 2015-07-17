@@ -11,9 +11,9 @@ You need to show the homepage on desktop browsers and a phone for the client rev
 
 ###Backend
 Your client is indecisive and must change the name of the company every day at will. You’ve decided a minimal backend will be needed so the change can be done quickly without writing code. Pick your favorite python based web framework. Create a small backend that:
-*Stores the name of the company in a database
-*Features either a api or view that shows retrieving the name from the database
-*Follows [pep8](https://www.python.org/dev/peps/pep-0008/) style guidelines
+* Stores the name of the company in a database
+* Features either a api or view that shows retrieving the name from the database
+* Follows [pep8](https://www.python.org/dev/peps/pep-0008/) style guidelines
 Explain all choices made and why you might do this in a real project ­ or maybe you just wanted to play with something new.
 
 ###Devops!
