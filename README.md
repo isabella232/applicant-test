@@ -5,7 +5,7 @@ This test is intended to go over a broad array of topics ­ without paying too m
 ###Frontend
 You’ve been asked to build a simple site, and handed a wireframe:
 
-![wireframe](https://raw.githubusercontent.com/thelabnyc/applicant-test/master/images/wireframe.jpg)
+![wireframe](/images/wireframe.jpg)
 
 You need to show the homepage on desktop browsers and a phone for the client review. You can use placeholder images for now. The mobile version should collapse down to fit on screens as narrow as 320px. The client changes their mind often, so it should be very easy to change colors and type styling – you’ll probably want to use SASS/SCSS, and a mixin library might help with some of the cross­browser differences.
 
