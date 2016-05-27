@@ -9,7 +9,7 @@ You’ve been asked to build a simple site, and handed a wireframe:
 
 ![Wireframe](/images/wireframe.png/)
 
-Your client’s 14-year-old child said that Angular 2 is the best framework; therefore, you must use Angular 2 for this single page application. 
+Your client’s 14-year-old child said that React is the best framework; therefore, you must use React for this single page application. 
 
 #### API Interaction
 Make use of http://www.icndb.com/api/ to dynamically get a different joke each time the user clicks a button.
